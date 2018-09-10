@@ -3,6 +3,7 @@
 int main(int argc, char const *argv[])
 {
 
+//i am lat kasuni
 
 	float r1,r2;
 	float a1,a2;
